@@ -1,50 +1,91 @@
 {
-  "title": "Software Developer",
-  "maintitle": "Er. Nitin Sharma",
-  "name": "Nitin Sharma",
-  "main": {
-    "shortline":"Hello world",
-    "mainline": "My name is Nitin sharma. we always have a habbit of learning and Implementing Hello world.. :P",
-    "mainline1": "By this i'm assuming, you understood that i'm also a software developer",
-    "content": [
-      {
-        "heading": "*****",
-        "content": "I completed my BE computer engineering from Watumull college with distinction in 2015, I an finished my 12th with 58% and 10th std with 72% .",
-        "content1": "Althought percantage doesn't matter for me since single exam paper can not decide the furture of someone. Instead hardwork will decide it.."
-      },
-      {
-        "heading": "Technologies",
-        "content": "Master of none and gerk of all. It's better to learn each and everything.",
-        "content1": "Till now, I worked in below technologies<br \\>Language: .Net, java, Nodejs <br \\>scripting: HTML, Javascript, angular.js<br \\>Database: SQL, Mongo, Redis"
-      },
-      {
-        "heading": "Certifications",
-        "content": "PSM1 certification",
-        "content1":"MONGO DBA certification"
-      }
-    ]
-  },
-  "project": {
-    "shortline":"Coding..Practice..Output",
-    "mainline": "There is nothing in this world you will get so free and easily. ",
-    "mainline1": "You have to work hard for knowledge, skills and attitude",
-    "content": [
-      {
-        "heading": "In Collage",
-        "content": "In college, We got many application projects. which helped me alot for learning of basic concept and real life applications. which are the best way and what to be avoid. althought that was not completlly right. Thanks to my professors Below are the list of projects on which i worked in college.. ",
-        "content1": "Althought percantage doesn't matter for me since single exam paper can not decide the furture of someone. Instead hardwork will decide it.."
-      },
-      {
-        "heading": "On Work",
-        "content": "Master of none and gerk of all. It's better to learn each and everything.",
-        "content1": "Till now, I worked in below technologies<br \\>Language: .Net, java, Nodejs <br \\>scripting: HTML, Javascript, angular.js<br \\>Database: SQL, Mongo, Redis"
-      },
-      {
-        "heading": "By Learning",
-        "content": "PSM1 certification",
-        "content1":"MONGO DBA certification"
-      }
-    ]
-  }
+    "title": "Software Developer",
+    "maintitle": "Nitin Sharma",
+    "name": "Nitin Sharma",
+    "main": {
+        "shortline": "Hello world",
+        "mainline": "My name is Nitin sharma. we always have a habbit of learning and Implementing Hello world.. :P",
+        "mainline1": "By this i'm assuming, you understood that i'm also a software developer",
+        "content": [{
+                "heading": "*****",
+                "content": "I completed my BE computer engineering from Watumull college with distinction in 2015, I an finished my 12th with 58% and 10th std with 72% .",
+                "content1": "Althought percantage doesn't matter for me since single exam paper can not decide the furture of someone. Instead hardwork will decide it.."
+            },
+            {
+                "heading": "Technologies",
+                "content": "Master of none and gerk of all. It's better to learn each and everything.",
+                "content1": "Till now, I worked in below technologies<br \\>Language: .Net, java, Nodejs <br \\>scripting: HTML, Javascript, angular.js<br \\>Database: SQL, Mongo, Redis"
+            },
+            {
+                "heading": "Certifications",
+                "content": "PSM1 certification",
+                "content1": "MONGO DBA certification"
+            }
+        ]
+    },
+    "project": {
+        "shortline": "Coding..Practice..Output",
+        "mainline": "There is nothing in this world you will get so free and easily. ",
+        "mainline1": "You have to work hard for knowledge, skills and attitude",
+        "content": [{
+                "heading": "In Collage",
+                "content": "In college, We got many application projects. which helped me alot for learning of basic concept and real life applications. which are the best way and what to be avoid. althought that was not completlly right. Thanks to my professors Below are the list of projects on which i worked in college.. ",
+                "content1": "Althought percantage doesn't matter for me since single exam paper can not decide the furture of someone. Instead hardwork will decide it.."
+            },
+            {
+                "heading": "On Work",
+                "content": "Master of none and gerk of all. It's better to learn each and everything.",
+                "content1": "Till now, I worked in below technologies<br \\>Language: .Net, java, Nodejs <br \\>scripting: HTML, Javascript, angular.js<br \\>Database: SQL, Mongo, Redis"
+            },
+            {
+                "heading": "By Learning",
+                "content": "PSM1 certification",
+                "content1": "MONGO DBA certification"
+            }
+        ]
+    },
+    "contact": {
+        "shortline": "Now a days contacting with people are too neccassasry.",
+        "mainline": "Since more you interact more you share and more you learn. ",
+        "mainline1": "Since more you interact more you share and more you learn.",
+        "content": [{
+                "heading": "In Collage",
+                "content": "In college, We got many application projects. which helped me alot for learning of basic concept and real life applications. which are the best way and what to be avoid. althought that was not completlly right. Thanks to my professors Below are the list of projects on which i worked in college.. ",
+                "content1": "Althought percantage doesn't matter for me since single exam paper can not decide the furture of someone. Instead hardwork will decide it.."
+            },
+            {
+                "heading": "On Work",
+                "content": "Master of none and gerk of all. It's better to learn each and everything.",
+                "content1": "Till now, I worked in below technologies<br \\>Language: .Net, java, Nodejs <br \\>scripting: HTML, Javascript, angular.js<br \\>Database: SQL, Mongo, Redis"
+            },
+            {
+                "heading": "By Learning",
+                "content": "PSM1 certification",
+                "content1": "MONGO DBA certification"
+            }
+        ]
+    },
+    "about": {
+        "shortline": "Hello world..",
+        "mainline": "My name is Nitin sharma. we always have a habbit of learning and saying Hello world. ",
+        "mainline1": "By this i'm assuming that you understood, Yes i m also software developer",
+        "content": [{
+                "heading": "Lived",
+                "content": "I lived in Ulhasnagar. Yes you heard proper Ulhasnagar. Many People say it's village, But i don't care about it. Because we got each and everything here and the best thing is anytime. Also UNR as in Ulhasngar is many famous for food. You never everget testy food anywhere else.. ",
+                "content1": "Althought percantage doesn't matter for me since single exam paper can not decide the furture of someone. Instead hardwork will decide it.."
+            },
+            {
+                "heading": "Studies",
+                "content": "I got completed my Engineering from Watumull college. which is not so famous for all, But for sindhi minority it is well known college. My whole life is changed there My life, My style, my language, my preferences, my skills, my hobbies and many more.",
+                "content1": "Till now, I worked in below technologies<br \\>Language: .Net, java, Nodejs <br \\>scripting: HTML, Javascript, angular.js<br \\>Database: SQL, Mongo, Redis"
+            },
+            {
+                "heading": "Working",
+                "content": "Right now i m working in one of the most entertaning company of India, BookMyShow. Many of my relatives think i m selling tickets if office, LOL. But i m working is software developer in one of the core team named IS(Integration services).",
+                "content1": "MONGO DBA certification"
+            }
+        ]
+    }
+
 
 }
