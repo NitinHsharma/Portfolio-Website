@@ -1,0 +1,50 @@
+{
+  "title": "Software Developer",
+  "maintitle": "Er. Nitin Sharma",
+  "name": "Nitin Sharma",
+  "main": {
+    "shortline":"Hello world",
+    "mainline": "My name is Nitin sharma. we always have a habbit of learning and Implementing Hello world.. :P",
+    "mainline1": "By this i'm assuming, you understood that i'm also a software developer",
+    "content": [
+      {
+        "heading": "*****",
+        "content": "I completed my BE computer engineering from Watumull college with distinction in 2015, I an finished my 12th with 58% and 10th std with 72% .",
+        "content1": "Althought percantage doesn't matter for me since single exam paper can not decide the furture of someone. Instead hardwork will decide it.."
+      },
+      {
+        "heading": "Technologies",
+        "content": "Master of none and gerk of all. It's better to learn each and everything.",
+        "content1": "Till now, I worked in below technologies<br \\>Language: .Net, java, Nodejs <br \\>scripting: HTML, Javascript, angular.js<br \\>Database: SQL, Mongo, Redis"
+      },
+      {
+        "heading": "Certifications",
+        "content": "PSM1 certification",
+        "content1":"MONGO DBA certification"
+      }
+    ]
+  },
+  "project": {
+    "shortline":"Coding..Practice..Output",
+    "mainline": "There is nothing in this world you will get so free and easily. ",
+    "mainline1": "You have to work hard for knowledge, skills and attitude",
+    "content": [
+      {
+        "heading": "In Collage",
+        "content": "In college, We got many application projects. which helped me alot for learning of basic concept and real life applications. which are the best way and what to be avoid. althought that was not completlly right. Thanks to my professors Below are the list of projects on which i worked in college.. ",
+        "content1": "Althought percantage doesn't matter for me since single exam paper can not decide the furture of someone. Instead hardwork will decide it.."
+      },
+      {
+        "heading": "On Work",
+        "content": "Master of none and gerk of all. It's better to learn each and everything.",
+        "content1": "Till now, I worked in below technologies<br \\>Language: .Net, java, Nodejs <br \\>scripting: HTML, Javascript, angular.js<br \\>Database: SQL, Mongo, Redis"
+      },
+      {
+        "heading": "By Learning",
+        "content": "PSM1 certification",
+        "content1":"MONGO DBA certification"
+      }
+    ]
+  }
+
+}

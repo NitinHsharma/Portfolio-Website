@@ -1,0 +1,22 @@
+<div class="jumbotron">
+  <div class="col-lg-3">
+    <img src="Images/nitin.jpg">
+  </div>
+  <div class="col-lg-9">
+    <h1>{{name}}</h1>
+    <p class="lead">{{shortline}}</p>
+    <p class="lead">{{mainline}}</p>
+    <p class="lead">{{mainline1}}</p>
+    </br>
+    </br>
+  </div>
+</div>
+<div class="row">
+  <div ng-repeat="data in index">
+    <div class="col-lg-4">
+      <h2>{{data.heading}} </h2>
+      <p>{{data.content}} </p>
+      <p>{{data.content1}}</p>
+    </div>
+  </div>
+</div>
