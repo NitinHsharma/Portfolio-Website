@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="main" ng-controller="indexContain">
-  <head>
+<html lang="en" ng-app="main">
+
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,38 +9,41 @@
     <!-- Bootstrap core CSS -->
     <link href="CSS/bootstrap.min.css" rel="stylesheet">
     <link href="CSS/Style.css" rel="stylesheet">
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.js" "></script>
-    <script type="text/javascript " src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js "></script>
-    <script type="text/javascript " src="Script/script.js "></script>
-  </head>
-  <body >
-    <div class="container" >
-      <!-- The justified navigation menu is meant for single line per list item.
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js "></script>
+    <script type="text/javascript" src="Script/script.js "></script>
+</head>
+
+<body>
+    <div class="container ">
+        <!-- The justified navigation menu is meant for single line per list item.
       Multiple lines will require custom code not provided by Bootstrap. -->
-      <div class="masthead ">
-        <h3 class="text-muted ">{{maintitle}}</h3>
-        <nav>
-          <ul class="nav nav-justified ">
-            <li><a href="#/main">Home</a></li>
-            <li><a href="#/project">Projects</a></li>
-            <li><a href="#/about">About</a></li>
-            <li><a href="#/contact">Contact</a></li>
-          </ul>
-        </nav>
-      </div>
-      
-      <!-- Example row of columns -->
-      <div class="row " >
-        <div ng-view></div>
-      </div>
-      
-      
-      <!-- Site footer -->
-      <footer class="footer ">
-        <p>&copy; 2017 Company, Inc.</p>
-       
-      </footer>
-      </div> <!-- /container -->
-      
-    </body>
-  </html>
+        <div class="masthead ">
+            <h3 class="text-muted ">{{maintitle}}</h3>
+            <nav>
+                <ul class="nav nav-justified ">
+                    <li><a href="#/main ">Home</a></li>
+                    <li><a href="#/project ">Projects</a></li>
+                    <li><a href="#/about ">About</a></li>
+                    <li><a href="#/contact ">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <!-- Example row of columns -->
+        <div class="row ">
+            <div ng-view></div>
+        </div>
+
+
+        <!-- Site footer -->
+        <footer class="footer ">
+            <p>&copy; 2017 Company, Inc.</p>
+
+        </footer>
+    </div>
+    <!-- /container -->
+
+</body>
+
+</html>
